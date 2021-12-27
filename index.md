@@ -1,8 +1,8 @@
 # Welcome to Annx - the Ring Announcement App
 
-## Quick Intro: 
+## Quick Intro
 
-The Ring Announcment App was created to keep people at turnaments updated as new announcements are made during the day.  If you have [Annx](http://annx.ninjaarmy.net) on your screen, it will update every time a new announcement is made. Simple enough?
+The Ring Announcement App (or Annx) was created to keep people at tournaments updated as new announcements are made during the day.  If you have [Annx](http://annx.ninjaarmy.net) on your screen, it will update every time a new announcement is made. Simple enough?
 
 What kind of tournaments? Annx was created for the [ATA](https://www.atamartialarts.com/) competitors and their families attending taekwondo tournaments in North Texas. 
 
