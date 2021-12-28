@@ -7,9 +7,9 @@ The Ring Announcement App (or Annx) was created to keep people at tournaments up
 What kind of tournaments? Annx was created for the [ATA](https://www.atamartialarts.com/) competitors and their families attending taekwondo tournaments in North Texas. 
 
 ### Quick Questions:
-- How do I view the latest announcments? Visit [Annx](http://annx.ninjaarmy.net) - http://annx.ninjaarmy.net - on your device (phone, tablet, laptop, smart TV)
-- How do I get new announcments? The list of announcments will be updated automatically.  You can use reload the page if you like.
-- How do I send an announcement? You need to have a login for the system.  More details further down.
+- How do I see the latest announcments? Visit [Annx](http://annx.ninjaarmy.net) - http://annx.ninjaarmy.net - on your device (phone, tablet, laptop, smart TV)
+- How do I get new announcments? The list of announcements will be updated automatically.  You can use reload the page if you like.
+- How do I send an announcement? Only tournament staff with a login can send a new announcement. See the quick guide for staff.further down.
 
 
 
