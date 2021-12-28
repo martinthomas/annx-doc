@@ -16,4 +16,4 @@ What kind of tournaments? Annx was created for the [ATA](https://www.atamartiala
 ### Support or Contact
 - Who do I contact if there are problems with Annx? Send an email to annx@martinthomas.net
 
-[Staff Guide](./staff)
+[Staff Guide](./staff.md)
