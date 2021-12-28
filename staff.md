@@ -1,4 +1,4 @@
 # Quick Guide for Staff
 
 ## Getting Started
-You will need a login - ask mailto:annx@martinthomas.net
+You will need a login - send an email to the ]admin team](mailto:annx@martinthomas.net)
