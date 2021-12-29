@@ -9,13 +9,15 @@ with login credentials).
 You will get a message from the admin team with your password.
 
 You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or on the button that says Verify Your Account.
+![verify email image](/assets/img/verify_email.png)
 ### Login into Annx
 Visit [Annx - http://annx.ninjaarmy.net](http://annx.ninjaarmy.net). You can do this on either your phone or computer.
 
 Click on the big button that says "Log In To Send Announcement"
+![Login buttn img](./assets/img/loginbutton.png)
 
 Enter your email address and password and your are ready to go.
-
+![email entry](/assets/img/email_entry.png)
 ## Quick Questions and Answers:
 - How do I get started? You will need a login - send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net) and you will 
 - My password doesn't work, what do I do? Send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net)
