@@ -7,7 +7,8 @@ Ask for a login if you don't already have one (note - for a tournament, there on
 with login credentials).
 
 You will get a message from the admin team with your password.
-You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or the button that says Verify Your Account.
+
+You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or on the button that says Verify Your Account.
 ### Login into Annx
 Visit [Annx - http://annx.ninjaarmy.net](http://annx.ninjaarmy.net). You can do this on either your phone or computer.
 
