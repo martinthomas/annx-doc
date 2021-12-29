@@ -7,16 +7,11 @@ You will need a login if you don't already have one (note - for a tournament, th
 If approved, you will get a message from the admin team with your password.
 
 ### Verify Your Account
-You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or on the button that says Verify Your Account.
+You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the verify link or on the button that says Verify Your Account.
 
 ![verify email image](/assets/img/verify_account.png)
 <br />
 <br />
-<img src="/assets/img/verify_account.png" border="2px" />
-<br />
-<br />
-| hello there |
-| - |
 
 ## Login into Annx
 
@@ -24,7 +19,7 @@ Visit [Annx - http://annx.ninjaarmy.net](http://annx.ninjaarmy.net). You can do 
 
 Click on the big button that says "Log In To Send Announcement"
 
-![Login buttn img](/assets/img/loginbutton.png)
+![Login button img](/assets/img/loginbutton.png)
 <br />
 <br />
 
