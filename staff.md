@@ -1,38 +1,41 @@
-# Quick Guide for Tournament Staff
 
-## First Steps for Tournament Staff
+# First Steps for Tournament Staff
 
-### Ask for a login
-You will need a login if you don't already have one (note - for a tournament, there only needs to be one or two people 
-with login credentials).
+## Ask for a login
+You will need a login if you don't already have one (note - for a tournament, there only needs to be one or two people with login credentials).
 
 If approved, you will get a message from the admin team with your password.
 
+### Verify Your Account
 You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or on the button that says Verify Your Account.
-|![verify email image](/assets/img/verify_account.png)|
--
-<img src="/assets/img/verify_account.png" width="50%" alt="img tag" />
 
-### Login into Annx
+|![verify email image](/assets/img/verify_account.png)|
+| - |
+
+
+## Login into Annx
+
 Visit [Annx - http://annx.ninjaarmy.net](http://annx.ninjaarmy.net). You can do this on either your phone or computer.
 
 Click on the big button that says "Log In To Send Announcement"
-|![Login buttn img](/assets/img/loginbutton.png)|
--
 
-Enter your email address and password and you will see a welcome message
-|![email entry](/assets/img/email_entry.png)
-|-
---- 
+|![Login buttn img](/assets/img/loginbutton.png)|
+| - |
+
+
+Enter your email address and password
+|![email entry](/assets/img/email_entry.png)|
+| - |
+
+and you will see a welcome message
 
 |![welcome](/assets/img/welcome.png)
-|-
----
+| - |
+
 
 You can now send new announcements
-|![send announcement](/assets/img/send_announcement.png)
-|-
----
+|![send announcement](/assets/img/send_announcement.png)|
+| - |
 
 ## Quick Questions and Answers:
 
@@ -42,4 +45,5 @@ You can now send new announcements
 
 - An announcement got posted that is wrong/offensive/out-of-date, how can I fix it? Send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net)
 
-- Can there be more than one person posting announcements at a tournament? Yes.
+- I get a white screen with some words at the top what do I do? If you get this after trying to log in, check that you completed the verification step. If still having problems, send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net).
+
