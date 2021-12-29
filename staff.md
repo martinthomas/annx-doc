@@ -3,10 +3,10 @@
 ## First Steps for Tournament Staff
 
 ### Ask for a login
-Yu will need a login if you don't already have one (note - for a tournament, there only needs to be one or two people 
+You will need a login if you don't already have one (note - for a tournament, there only needs to be one or two people 
 with login credentials).
 
-You will get a message from the admin team with your password.
+If approved, you will get a message from the admin team with your password.
 
 You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the link that says verify or on the button that says Verify Your Account.
 ![verify email image](/assets/img/verify_account.png)
@@ -28,6 +28,7 @@ Enter your email address and password and you will see a welcome message
 You can now send new announcements
 ![send announcement](/assets/img/send_announcement.png)
 
+---
 
 ## Quick Questions and Answers:
 
