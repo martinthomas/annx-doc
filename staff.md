@@ -34,8 +34,8 @@ You can now send new announcements
 
 - My password doesn't work, what do I do? Send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net)
 
-- Someone has my password, what should I do? Send an email to the [admin team (annx@martinthomas.net)].  We will change your password or block the account if needed.
+- Someone has my password, what should I do? Send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net).  We will change your password or block the account if needed.
 
-- An announcement got posted that is wrong/offensive/out-of-date, how can I fix it? Send an email to the [admin team (annx@martinthomas.net)]
+- An announcement got posted that is wrong/offensive/out-of-date, how can I fix it? Send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net)
 
 - Can there be more than one person posting announcements at a tournament? Yes.
