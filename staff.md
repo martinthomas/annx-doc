@@ -36,7 +36,8 @@ and you will see a welcome message
 <br />
 
 
-You can now send new announcements
+Click on the Send Announcement button and the app will show the screen below where you can send new announcements
+
 ![send announcement](/assets/img/send_announcement.png)
 <br />
 <br />
