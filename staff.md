@@ -22,14 +22,16 @@ Click on the big button that says "Log In To Send Announcement"
 | Image |
 |:---|
 |![Login button img](/assets/img/loginbutton.png)|
+
 <br />
 <br />
 
 
 Enter your email address and password
-| Image |
-|:---|
-|![email entry](/assets/img/email_entry.png)|
+| Image | Email |
+|:---|:----|
+|![email entry](/assets/img/email_entry.png)| |
+
 <br />
 <br />
 
