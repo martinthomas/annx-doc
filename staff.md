@@ -19,13 +19,17 @@ Visit [Annx - http://annx.ninjaarmy.net](http://annx.ninjaarmy.net). You can do 
 
 Click on the big button that says "Log In To Send Announcement"
 
-![Login button img](/assets/img/loginbutton.png)
+| Image |
+|:---|
+|![Login button img](/assets/img/loginbutton.png)|
 <br />
 <br />
 
 
 Enter your email address and password
-![email entry](/assets/img/email_entry.png)
+| Image |
+|:---|
+|![email entry](/assets/img/email_entry.png)|
 <br />
 <br />
 
