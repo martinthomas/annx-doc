@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: Documentation for Annx
 description: Lightweight documentation for the Annx app
 # remote_theme: pages-themes/minimal@v0.2.0
