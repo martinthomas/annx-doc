@@ -28,7 +28,7 @@ Click on the big button that says "Log In To Send Announcement"
 
 Enter your email address and password
 
-|![email entry](/assets/img/email_entry.png)||
+|![email entry](/assets/img/email_entry.png)|
 
 <br />
 <br />
