@@ -9,7 +9,8 @@ If approved, you will get a message from the admin team with your password.
 ### Verify Your Account
 You will also get an email from "empty-river-3404 <no-reply@auth0user.net>" asking you to verify your account.  Click on the verify link or on the button that says Verify Your Account.
 
-![verify email image](/assets/img/verify_account.png)
+|![verify email image](/assets/img/verify_account.png)|
+
 <br />
 <br />
 
@@ -28,9 +29,10 @@ Click on the big button that says "Log In To Send Announcement"
 
 
 Enter your email address and password
-| Image | Email |
-|:---|:----|
-|![email entry](/assets/img/email_entry.png)| |
+
+| Image |
+|:---|
+|![email entry](/assets/img/email_entry.png)||
 
 <br />
 <br />
