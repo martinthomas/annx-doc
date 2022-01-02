@@ -9,12 +9,17 @@ What kind of tournaments? Annx was created for competitors and family attending 
 If you have a phone, tablet, iPad, laptop or smart TV then you can visit Annx and keep up to date.
 
 ### Quick Questions:
-- How do I see the latest announcments? Visit [Annx](http://annx.ninjaarmy.net) - http://annx.ninjaarmy.net - on your device (phone, tablet, laptop, smart TV)
+
+- How do I see the latest announcements? Visit [Annx](http://annx.ninjaarmy.net) - http://annx.ninjaarmy.net - on your device (phone, tablet, laptop, smart TV)
 - How do I get new announcments? The list of announcements will be updated automatically.  You can reload the page if you like.
 - How do I send an announcement? Only tournament staff with a login can send a new announcement. See the [Staff Guide](./staff.md) if you think you should have a login.
 
 
 ### Support or Contact
+
 - Who do I contact if there are problems with Annx? Send an email to annx@martinthomas.net
 
-[Staff Guide](./staff.md)
+### Other Pages
+
+- [ Staff Guide](./staff.md)
+- [ Style Guide](./style_guide.md)

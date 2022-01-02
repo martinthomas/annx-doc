@@ -58,3 +58,7 @@ Click on the Send Announcement button and the app will show the screen below whe
 
 - I get a white screen with some words at the top what do I do? If you get this after trying to log in, check that you completed the verification step. If still having problems, send an email to the [admin team (annx@martinthomas.net)](mailto:annx@martinthomas.net).
 
+### Other Pages
+
+- [ Style Guide](./style_guide.md)
+- [ Front Page ](./index.md)
