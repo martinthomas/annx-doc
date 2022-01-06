@@ -21,11 +21,15 @@ The ring announceemt are the most common type of announcement, usually announced
 ### Examples
 <br/>
 
-> 1D boys 13-14 XMA ring 6
+```
+1D boys 13-14 XMA ring 6
+```
 
 or 
 
-> WOY Tiny Tigers Tradional competition to Ring 14
+```
+WOY Tiny Tigers Tradional competition to Ring 14
+```
 
 <br/>
 
@@ -36,12 +40,16 @@ Sometimes, there may be other reasons for announcements such as reminding judges
 ### Examples
 <br/>
 
-> All judges, please return to your assigned rings
-
+```
+All judges, please return to your assigned rings
+```
 or 
 
-> All Tiny Tigers to Staging
+```
+All Tiny Tigers to Staging
+```
 
+<br />
 
 ### Other Pages
 
